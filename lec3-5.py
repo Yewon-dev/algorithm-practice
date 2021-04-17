@@ -29,9 +29,7 @@ for i in range(n):
 result = 0
 for i in range(n):
   for j in range(m):
-    if dfs(i, j) == True: #  방문처리가 되어 있다면
+    if dfs(i, j) == True: # 방문처리가 되어 있다면
       result += 1
 
 print(result)
-
-

@@ -40,3 +40,5 @@ print("time:", end_time - start_time) # 수행 시간 출력
 
 
 ## 알고리즘
+
+- 다이나믹 프로그래밍
